@@ -1,0 +1,162 @@
+body{
+    height: 100vh;
+    background-color: black;
+    font-family: monospace;
+    overflow: hidden;
+}
+
+h1 , h2 , h3{
+    display: inline-block;
+    font-family: monospace;
+    font-size: 100px;
+    margin: 0 5px;
+    position:relative;
+    left: 440px;
+    top: 200px;
+    color: red;
+}
+
+p{
+    display: inline-block;
+    font-size: 60px;
+    position: relative;
+    left: 440px;
+    top: 200px;
+    color: red;
+}
+
+.sat{
+    color: red;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: 335px;
+}
+
+.fri{
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: 265px;
+}
+
+.thu{
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: 195px;
+}
+
+.wed{
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: 115px;
+}
+
+.tue{
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: 35px;
+}
+
+.mon{
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: -45px;
+}
+
+.sun{
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 240px;
+    left: -130px;
+}
+
+.tarikh{
+    color: red;
+    font-size: 30px;
+    top: 300px;
+    left: -240px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.date{
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 295px;
+    left: -238px;
+}
+
+.moh{
+    color: red;
+    font-size: 30px;
+    top: 299px;
+    left: -210px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mounth{
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 295px;
+    left: -207px;
+}
+
+.sal{
+    color: red;
+    font-size: 30px;
+    top: 299px;
+    left: -185px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.year{
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 295px;
+    left: -180px;
+}
+
+.temp{
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 295px;
+    left: -140px;
+}
+
+.number{
+    color: red;
+    font-size: 30px;
+    top: 299px;
+    left: -138px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.o{
+    color: white;
+    font-size: 9px;
+    font-family: 'Courier New', Courier, monospace;
+    top: 280px;
+    left: -138px;
+}
+
+.C{
+    color: white;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    top: 288px;
+    left: -138px;
+}
